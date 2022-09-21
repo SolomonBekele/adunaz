@@ -1,0 +1,8 @@
+*{
+    font-family: "Bitstream Vera Sans Mono", Monaco, "Courier New", Courier, monospace;
+    background: antiquewhite;
+}
+.name{
+    color: red;
+    font-size: 25px;
+}
